@@ -1,1 +1,2 @@
-Crypto Devs Contract Address: 0x0e763052d127e836B610F9c6f57D83745D383A27
+Initial deployed Crypto Devs Contract Address: 0x0e763052d127e836B610F9c6f57D83745D383A27
+final deployed Crypto Devs Contract Address:0xB9388f945792175A500aB5CD6ec9BB17d93B395F
